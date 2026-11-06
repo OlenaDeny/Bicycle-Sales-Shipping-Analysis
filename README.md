@@ -97,3 +97,5 @@ A SQL and Python portfolio project exploring bicycle retail sales, category-leve
 ## Data privacy
 
 This repository contains aggregate analysis outputs only. It does not include raw customer records, email addresses, or street addresses.
+
+**Interactive DataLab Workbook:** [View the original project in DataCamp](https://www.datacamp.com/datalab/w/5182a650-f9b8-47da-8cf0-1176ae86a0a8)
