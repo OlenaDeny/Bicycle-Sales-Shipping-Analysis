@@ -37,6 +37,8 @@ A SQL and Python portfolio project exploring bicycle retail sales, category-leve
 
 ## Key findings
 
+![KPI](images/Bicycle_Sales_Shipping_Dashboard_corrected.png)
+
 - **Revenue concentration:** Mountain Bikes generated 35.31% of recorded order-item revenue and Road Bikes 21.66%; together they contributed **56.97%**.
 - **Inventory comparison:** Mountain Bikes and Road Bikes accounted for **57.24%** of shipped revenue versus **35.12%** of recorded inventory. Cruisers Bicycles and Children Bicycles accounted for **44.30%** of inventory and **16.91%** of shipped revenue. The stock snapshot date is unknown, so these are investigation signals, not proof of overstock or understock.
 - **Shipping performance:** **458 of 1,445 shipped orders (31.70%)** were shipped after the required date.
