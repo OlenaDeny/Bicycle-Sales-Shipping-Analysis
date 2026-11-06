@@ -1,0 +1,6 @@
+Project package checks
+======================
+Notebook cells executed: 20
+All notebook cells executed successfully using aggregate CSV exports.
+No customer-level records were exported into data/processed.
+SQL scripts reference the source BikeStores-compatible SQL Server database, which is not included.

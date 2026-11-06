@@ -1,0 +1,4 @@
+order_year,total_orders,shipped_orders,orders_without_shipped_date,shipping_date_coverage_pct
+2016,635,620,15,97.64
+2017,688,671,17,97.53
+2018,292,154,138,52.74

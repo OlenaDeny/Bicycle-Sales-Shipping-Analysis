@@ -1,0 +1,9 @@
+order_year,order_status,total_orders,orders_without_shipped_date
+2016,3,15,15
+2016,4,620,0
+2017,3,17,17
+2017,4,671,0
+2018,1,62,62
+2018,2,63,63
+2018,3,13,13
+2018,4,154,0
